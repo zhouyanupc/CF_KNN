@@ -25,3 +25,19 @@ iid = str(302)
 
 pred = algo.predict(uid, iid)
 print(pred)
+
+"""
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.8596
+MAE:  0.6570
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.8550
+MAE:  0.6539
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.8549
+MAE:  0.6541
+user: 196        item: 302        r_ui = None   est = 3.98   {'actual_k': 50, 'was_impossible': False}
+"""
