@@ -27,6 +27,7 @@ pred = algo.predict(uid, iid)
 print(pred)
 
 """
+运行结果:
 Computing the msd similarity matrix...
 Done computing similarity matrix.
 RMSE: 0.8596
